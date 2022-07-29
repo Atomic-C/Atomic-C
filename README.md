@@ -3,7 +3,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atomic-C&theme=hacker&hide_border=true)](https://git.io/streak-stats)
 
-[![Atomic-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic-C)](https://github.com/Atomic-C/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atomic-C&layout=compact)](https://github.com/Atomic-C/github-readme-stats)
 
