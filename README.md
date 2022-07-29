@@ -5,7 +5,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atomic-C&layout=compact)](https://github.com/Atomic-C/github-readme-stats)
+
 
 
 
