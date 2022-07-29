@@ -5,7 +5,7 @@
 
 [![Atomic-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic-C)](https://github.com/Atomic-C/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atomic-C&layout=compact)](https://github.com/Atomic-C/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atomic-C&layout=dark)](https://github.com/Atomic-C/github-readme-stats)
 
 <!--
 **Atomic-C/Atomic-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
