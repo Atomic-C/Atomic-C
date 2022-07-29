@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atomic-C&layout=compact)](https://github.com/Atomic-C/github-readme-stats)
 
-[![Test Card Pedro's random repo](https://github-readme-stats.vercel.app/api/pin/?username=Atomic-C&repo=github-readme-stats)](https://github.com/Atomic-C/github-readme-stats)
+[![Test Card Pedro's random repo](https://github-readme-stats.vercel.app/api/pin/?username=Atomic-C&repo=github-readme-stats)]([https://github.com/Atomic-C/github-readme-stats](https://github.com/arthurBritto/hackathon24hr))
 
 <!--
 **Atomic-C/Atomic-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
