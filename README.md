@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=Atomic-C&color=red)
+![](https://komarev.com/ghpvc/?username=Atomic-C&color=green)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atomic-C&theme=hacker&hide_border=true)](https://git.io/streak-stats)
 
