@@ -3,6 +3,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atomic-C&theme=hacker&hide_border=true)](https://git.io/streak-stats)
 
+[![Atomic-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic-C)](https://github.com/Atomic-C/github-readme-stats)
+
 <!--
 **Atomic-C/Atomic-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
