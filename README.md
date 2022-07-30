@@ -3,10 +3,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Atomic-C&theme=hacker&hide_border=true)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue-green?&title_color=20c10e&text_color=20c10e&bg_color=000000&icon_color=20c10e)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic-C&show_icons=true&theme=blue-green?&title_color=20c10e&text_color=20c10e&bg_color=000000&icon_color=20c10e)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=20c10e&text_color=20c10e&bg_color=000000&icon_color=20c10e)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atomic-C&layout=compact&title_color=20c10e&text_color=20c10e&bg_color=000000&icon_color=20c10e)](https://github.com/Atomic-C/github-readme-stats)
 
 
 <!--
